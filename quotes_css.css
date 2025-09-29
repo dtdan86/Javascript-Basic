@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+h2,h3 {
+	text-align: center;
+}
+
+#web_links {
+	display: flex;
+	
+}
+
+a {
+	margin-left: 30px;
+}
+
+p {
+	margin-left: 30px;
+}
